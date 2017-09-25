@@ -1,4 +1,5 @@
 import { Component } from "@angular/core";
+import { Order } from "./shared/order/order";
 
 @Component({
     selector: "ns-app",
