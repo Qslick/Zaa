@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Vortex/Documents/Ksu Fall 2017/Intro to Software Engineering/Project/Zaa/platforms/android/build/intermediates/res/merged/F0/debug/drawable-nodpi-v4/splash_screen.xml",
+        "source": "/Users/Vortex/Documents/Ksu Fall 2017/Intro to Software Engineering/Project/Zaa/platforms/android/src/main/res/drawable-nodpi/splash_screen.xml"
+    },
+    {
+        "merged": "/Users/Vortex/Documents/Ksu Fall 2017/Intro to Software Engineering/Project/App/Zaa/platforms/android/build/intermediates/res/merged/F0/debug/drawable-nodpi-v4/splash_screen.xml",
+        "source": "/Users/Vortex/Documents/Ksu Fall 2017/Intro to Software Engineering/Project/App/Zaa/platforms/android/src/main/res/drawable-nodpi/splash_screen.xml"
+    }
+]

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Vortex/Documents/Ksu Fall 2017/Intro to Software Engineering/Project/Zaa/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/Vortex/Documents/Ksu Fall 2017/Intro to Software Engineering/Project/Zaa/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-25.3.1_df75b0bf658de405f86225dbb0c09e0d2ffda4a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Vortex/Documents/Ksu Fall 2017/Intro to Software Engineering/Project/Zaa/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/Vortex/Documents/Ksu Fall 2017/Intro to Software Engineering/Project/Zaa/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-25.3.1_5fa46f98d01e8d26eef9b91028c6fb3fa5077226.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Vortex/Documents/Ksu Fall 2017/Intro to Software Engineering/Project/Zaa/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/Vortex/Documents/Ksu Fall 2017/Intro to Software Engineering/Project/Zaa/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-25.3.1_b345e66bb7ad17118600c756c9d254ee8dc7388a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Vortex/Documents/Ksu Fall 2017/Intro to Software Engineering/Project/Zaa/platforms/android/build/intermediates/exploded-aar/Zaa/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="/Users/Vortex/Documents/Ksu Fall 2017/Intro to Software Engineering/Project/Zaa/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_3e6b1de1f0f5b6ab80819c384a81d98b4fbdb336.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Vortex/Documents/Ksu Fall 2017/Intro to Software Engineering/Project/Zaa/platforms/android/build/intermediates/exploded-aar/Zaa/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="eb6078500d1af5e7b663871706674405c57292a3">
+        <dex dex="/Users/Vortex/Documents/Ksu Fall 2017/Intro to Software Engineering/Project/Zaa/platforms/android/build/intermediates/pre-dexed/F0/debug/Zaa-runtime-unspecified_2c52eadb599ccd889d7e2d4039c7d6688f617fef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/usr/local/Caskroom/android-sdk/3859397/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/Vortex/Documents/Ksu Fall 2017/Intro to Software Engineering/Project/Zaa/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-25.3.1_27440ef56bc6a6791a4be3388de0b252ba7974e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Vortex/Documents/Ksu Fall 2017/Intro to Software Engineering/Project/Zaa/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Vortex/Documents/Ksu Fall 2017/Intro to Software Engineering/Project/Zaa/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-25.3.1_e4df600022f1bed219868e51cd7c8e410cc731b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Vortex/Documents/Ksu Fall 2017/Intro to Software Engineering/Project/Zaa/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ada15dd7aad50793dcd67b281a8eb06e80007500">
+        <dex dex="/Users/Vortex/Documents/Ksu Fall 2017/Intro to Software Engineering/Project/Zaa/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_f04b81d1b1234b869c96dcf609274c38ef83f465.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Vortex/Documents/Ksu Fall 2017/Intro to Software Engineering/Project/Zaa/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/Vortex/Documents/Ksu Fall 2017/Intro to Software Engineering/Project/Zaa/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-compat-25.3.1_c5cfe8d28c02ff40bfdd653a1f287ad450d608de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Vortex/Documents/Ksu Fall 2017/Intro to Software Engineering/Project/Zaa/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/Vortex/Documents/Ksu Fall 2017/Intro to Software Engineering/Project/Zaa/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-media-compat-25.3.1_968bc08cd48fbed6a2118b38d5ec3c007b8deb58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Vortex/Documents/Ksu Fall 2017/Intro to Software Engineering/Project/Zaa/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/Vortex/Documents/Ksu Fall 2017/Intro to Software Engineering/Project/Zaa/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-25.3.1_0de4faa1a7853b59db329895dbdf1340d5a36d8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Vortex/Documents/Ksu Fall 2017/Intro to Software Engineering/Project/Zaa/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/Vortex/Documents/Ksu Fall 2017/Intro to Software Engineering/Project/Zaa/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-transition-25.3.1_df5f328e92af570b06291822d33f62427c0157c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Vortex/Documents/Ksu Fall 2017/Intro to Software Engineering/Project/Zaa/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/Vortex/Documents/Ksu Fall 2017/Intro to Software Engineering/Project/Zaa/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-25.3.1_b190ec1a2d037399cff1e84c4e1fec89c7e4cc16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Vortex/Documents/Ksu Fall 2017/Intro to Software Engineering/Project/Zaa/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/Vortex/Documents/Ksu Fall 2017/Intro to Software Engineering/Project/Zaa/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-25.3.1_638079b6cdfa5caff3e3e9a5c3128f812903e3b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Vortex/Documents/Ksu Fall 2017/Intro to Software Engineering/Project/Zaa/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/Vortex/Documents/Ksu Fall 2017/Intro to Software Engineering/Project/Zaa/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-ui-25.3.1_6c3caef3fab08cb40a59d59ed4eca4e73ecad359.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Vortex/Documents/Ksu Fall 2017/Intro to Software Engineering/Project/Zaa/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/Vortex/Documents/Ksu Fall 2017/Intro to Software Engineering/Project/Zaa/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-25.3.1_745768c834f56b4f8490fe001f5e2073753aa3de.jar" />
+    </item>
+
+</items>
